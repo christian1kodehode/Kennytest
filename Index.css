@@ -1,0 +1,148 @@
+#rect
+{ 
+    position:absolute;
+    width: 814px;
+    height: 563px;
+    top: 197px;
+    left: 335px;
+    radius: 52px;
+    background: #f87429;
+    border-radius: 52px;
+    }
+
+
+    #circleb1
+    {
+     position:absolute; 
+     Width: 115px;
+     height: 113px;
+     top: 55px;
+     left: 350px;
+    blend: pass-through;
+    border-radius: 50%;
+    background: #4333f7 
+ }
+
+ #circleb2
+    {
+     position:absolute; 
+     Width: 115px;
+     height: 113px;
+     top: 345px;
+     left:-5px;
+    blend: pass-through;
+    border-radius: 50%;
+    background: #4333f7 
+ }
+
+   
+
+     #circleg1
+    {
+        position:absolute;
+        Width: 178px;
+        height: 154px;
+        top: -450px;
+        left: -380px;
+       blend: pass-through;
+       border-radius: 50%;
+       background:#9DEF6B
+     }
+
+     #circleg2
+     {
+         position:absolute;
+         Width: 178px;
+         height: 154px;
+         top: 0px;
+         left: 700px;
+        blend: pass-through;
+        border-radius: 50%;
+        background:#9DEF6B
+    
+      }
+
+      #circleg3
+      {
+          position:absolute;
+          Width: 178px;
+          height: 154px;
+          top: 490px;
+          left: -700px;
+         blend: pass-through;
+         border-radius: 50%;
+         background:#9DEF6B
+       }
+  
+       #circleg4
+       {
+           position:absolute;
+           Width: 178px;
+           height: 154px;
+           top: 5px;
+           left: 700px;
+          blend: pass-through;
+          border-radius: 50%;
+          background:#9DEF6B
+        }
+
+
+        #cross1
+       {
+        position: absolute;
+        width: 67px;
+        height: 0px;
+        left: -300px;
+        top: -345px;
+        
+        border: 10px solid #FFFFFF;
+           
+        }
+
+        #cross2
+    {
+        position: absolute;
+        width: 70px;
+        height: 0px;
+        left: -12px;
+        top: -10px;
+
+        border: 10px solid #FFFFFF;
+        transform: rotate(-90deg);
+            
+         }
+
+         #cross3
+         {
+            position: absolute;
+            width: 65px;
+            height: 0px;
+            left: -350px;
+            top: -15px;
+            border: 10px solid #FFFFFF;
+            transform: rotate(-90deg);
+
+             
+          }
+
+        
+
+
+       
+
+
+
+   
+
+   
+
+
+
+
+
+
+
+
+
+
+
